@@ -20,10 +20,10 @@
     "data",
     "table"
   ],
-  "author": "Shiva Krishnan",
+  "author": "Subasri Venkat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sskrishnan/reactapp.git???"
+    "url": "https://github.com/subasri7788/reactgrid.git???"
   },
   "homepage": "http://www.ag-grid.com/",
   "devDependencies": {
@@ -55,7 +55,7 @@
     "ag-grid-react": "^21.0.0",
     "bootstrap": "4.3.1",
     "d3": "4.9.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.13",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-redux": "7.0.3",
